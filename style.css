@@ -1,5 +1,4 @@
-h2{color: green}
-body{background-image: url(image.jpg);}
-.ungu{color: purple}
-.bening{opacity: 0.8}
-.biru{color: blue}
+h1{background-image: url(2.gif) }
+h1{background-color: #333399; color: pink; }
+h3{color: aqua; border:2px dashed pink;}
+h2{ background-color: pink; color: navy;border:3px solid #ccffff}
